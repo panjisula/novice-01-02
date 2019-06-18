@@ -1,0 +1,17 @@
+latihan : 
+1. grub
+2. a. display manager --> lightdm --> $cat /etc/X11/default-display-manager
+b. window manager --> Compiz --> $wmctrl -m
+c. 
+D. echo $SHELL --> ps -p $$ --> bash
+
+3. /boot --> config, initrd.img, System.map, vmlinuz.
+
+initrd.img : digunakan sebagai RAM disk kecil yang mengekstrak dan mengeksekusi file kernel asli.
+System.map : digunakan untuk memori manajemen sebelum kernel terload secara penuh.
+config : menyatakan kepada kernel, opsi-opsi yang digunakan dan modul yang akan diload pada kernel image ketika dikompile.
+
+4. sudah, kurang buat file.
+
+5. 
+
