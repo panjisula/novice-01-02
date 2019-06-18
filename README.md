@@ -1,6 +1,7 @@
 # novice-01-02
 
 **Oleh : Panji Sulapandoyo**
+
 **Tanggal : 19 Juni 2019**
 
 ## Penjelasan 
@@ -14,12 +15,21 @@ Terdapat beberapa materi yang dipelajar pada sesi ini, yaitu tentang Git dan kai
 Git adalah salah satu VCS. 
 
 Perintah-peritah yang biasa digunakan dalam penerapan Git dengan Remote server Github adalah sebagai berikut : 
+
 -git init
+
 -git add
+
 -git clone
+
 -git commit
+
 -git checkout
+
 -git merge 
+
+-git push
+
 -git pull
 
 Untuk melakukan kontribusi terhadap suatu project pada project software yang ada di repo remote public, bisa dengan melakukan Pull Request pada repo yang dimaksud. 
