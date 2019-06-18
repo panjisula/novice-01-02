@@ -16,21 +16,14 @@ Git adalah salah satu VCS.
 
 Perintah-peritah yang biasa digunakan dalam penerapan Git dengan Remote server Github adalah sebagai berikut : 
 
--git init
-
--git add
-
--git clone
-
--git commit
-
--git checkout
-
--git merge 
-
--git push
-
--git pull
+- `git init` : menjadikan folder sebagai repo lokal
+- `git add :` menambahkan file ke status staging yang sudah selesai dimodifikasi
+- `git clone` : melakukan duplikasi terhadap repositori tertentu
+- `git commit` : melakukan commit/memberikan tanda 
+- `git checkout` : berpindah branch / berkaitan dengan branch suatu repo
+- `git merge` : melakukan merging suatu branch ke branch saat ini
+- `git push` : melakukan upload ke repo remote
+- `git pull` : mengambil/update file pada repository lokal
 
 Untuk melakukan kontribusi terhadap suatu project pada project software yang ada di repo remote public, bisa dengan melakukan Pull Request pada repo yang dimaksud. 
 
